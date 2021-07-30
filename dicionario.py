@@ -4,3 +4,4 @@ class dicionario:
     status     = "pedido-situacao"
     metEnvio   = "envio-nome"
     entregue   = "Pedido Entregue"
+    NumPedido  = "pedido-numero"
