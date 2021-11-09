@@ -1,7 +1,18 @@
 class dicionario:
     estadoDest = "end-entrega-estado"
+    cidadeDest = "end-entrega-cidade"
     tipoPag    = "pagamento-nome"
     status     = "pedido-situacao"
     metEnvio   = "envio-nome"
     entregue   = "Pedido Entregue"
+    cancelado  = "Pedido Cancelado"
     NumPedido  = "pedido-numero"
+    clienteID  = "cliente-id"
+    nomeDest   = "end-entrega-nome"
+    valorTotal = "pedido-valor-total"
+    dataCriacao= "pedido-data-criacao"
+    genero     = "sexo"
+    Id         = "id"
+    dataNasc   = "data-nascimento"
+    clientCriac= "data-criacao"
+    
